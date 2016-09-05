@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestGrability</string>
+    <bool name="isPhone">false</bool>
+</resources>
